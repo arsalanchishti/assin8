@@ -102,3 +102,46 @@
 //     var inc = document.getElementById('counter');
 //     inc.innerHTML = val1
 // }
+
+
+
+
+
+
+
+
+// ==== chepter no 49-52=====
+
+
+//===== task no 1 =====
+
+// function send(){
+//     var un = document.getElementById('firstn')
+//     var un1 = document.getElementById('first-n')
+//     un1.innerHTML = un.value
+
+//     var ln = document.getElementById('lastn')
+//     var ln1 = document.getElementById('last-n')
+//     ln1.innerHTML = ln.value
+
+//     var dob = document.getElementById('dob')
+//     var dob1 = document.getElementById('do-b')
+//     dob1.innerHTML = dob.value
+
+//     var usr = document.getElementById('usern')
+//     var usr1 = document.getElementById('user-n')
+//     usr1.innerHTML = usr.value
+
+//     var ps = document.getElementById('pass')
+//     var ps1 = document.getElementById('pass1')
+//     ps1.innerHTML = ps.value
+// }
+
+
+//===== task no 2 =====
+
+var text = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, sed, repudiandae, quia quod fugit ratione amet voluptatum corrupti doloremque ipsum libero rem mollitia soluta dolorem asperiores dolore laudantium. Saepe, ad? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora, sed, repudiandae, quia quod fugit ratione amet voluptatum corrupti doloremque ipsum libero rem mollitia soluta dolorem asperiores dolore laudantium. Saepe, ad?'
+function readmore(){
+    var pera = document.getElementById('pera')
+    pera.innerHTML =text
+}

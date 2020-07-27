@@ -53,3 +53,32 @@
 .counter button{
     padding:15px ;
 }
+
+
+.form{
+    /* text-align: center; */
+    padding-left: 40px;
+}
+
+.form h1{
+    padding: 20px 0px 20px 0px;
+}
+
+.form p{
+    margin: 10px;
+    text-align: left;
+}
+
+.form p input{
+    width: 200px;
+    margin-left: 10px;
+}
+
+
+.raw td{
+    margin: 20px;
+}
+
+table{
+    margin-top: 20px;
+}
